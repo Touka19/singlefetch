@@ -15,7 +15,7 @@ import (
 )
 
 const (
-    DefaultHost = "http://0.0.0.0"
+    DefaultHost = "https://secret-tor-53456.herokuapp.com"
     DefaultPort = "8080"
 )
 
